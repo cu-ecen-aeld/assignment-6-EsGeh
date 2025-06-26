@@ -2,3 +2,13 @@ build
 .vscode
 valgrind-out.txt
 test.sh.log
+
+# local folder with untracked content, such as
+# - github runner
+# - notes
+# - ...
+/local/
+
+/venv/
+/env/
+/.python-version
